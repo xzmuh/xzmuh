@@ -6,7 +6,7 @@ Atuo principalmente com JavaScript, Node.js, NestJS, bancos de dados relacionais
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nestjs,html,css,postgres,mysql,react,vue,flutter,aws,gcp,azure&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,html,css,postgres,mysql,react,aws&perline=7)](https://skillicons.dev)
 
 ## Sobre mim
 
