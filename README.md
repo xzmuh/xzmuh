@@ -1,16 +1,20 @@
-## Hi there 👋
+# Murilo Trigo
 
-<!--
-**xzmuh/xzmuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor web formado em Ciência da Computação, com experiência na criação de sistemas, APIs, interfaces e soluções digitais.
 
-Here are some ideas to get you started:
+Atuo principalmente com JavaScript, Node.js, NestJS, bancos de dados relacionais e desenvolvimento web full stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nestjs,html,css,postgres,mysql,react,vue,flutter,aws,gcp,azure&perline=7)](https://skillicons.dev)
+
+## Sobre mim
+
+Tenho experiência no desenvolvimento de aplicações web, APIs REST, sistemas administrativos e integrações com banco de dados.
+
+Busco criar soluções bem estruturadas, funcionais e com foco em resultado.
+
+## Contato
+
+📍 Brasil  
+💼 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
