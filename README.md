@@ -17,4 +17,4 @@ Busco criar soluções bem estruturadas, funcionais e com foco em resultado.
 ## Contato
 
 📍 Brasil  
-💼 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+💼 LinkedIn: [linkedin.com/in/murilo-trigo-6205b3190](https://www.linkedin.com/in/murilo-trigo-6205b3190/)
